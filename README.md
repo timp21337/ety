@@ -1,4 +1,4 @@
-Retrieves a random etymology entry from etyonline.com.
+Retrieves a random etymology entry from http://www.etymonline.com/.
 
     $ ety
     nee
